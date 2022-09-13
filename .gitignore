@@ -1,0 +1,2 @@
+# Remove DS_Store to be uploaded on git
+.DS_Store
